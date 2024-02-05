@@ -8,9 +8,10 @@ Welcome to my Github!
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
   />
 </a>
+
 ##🔥 Key Skills Hotlist 🔥
 
-Front-End Sorcery: Crafting captivating interfaces with React, HTML5, CSS (plus a dash of Tailwind for that extra flair), Typescript, and the ever-mysterious Javascript.
+### Front-End Sorcery: Crafting captivating interfaces with React, HTML5, CSS (plus a dash of Tailwind for that extra flair), Typescript, and the ever-mysterious Javascript.
 Full Stack Wizardry: Conjuring up seamless experiences with Next.js, from frontend finesse to backend brilliance.
 API Enchantment: Mastering the art of weaving APIs into our digital tapestry.
 Database Spellcasting: Dancing effortlessly between GraphQL, SQLite, and MongoDB to store our data treasures.
