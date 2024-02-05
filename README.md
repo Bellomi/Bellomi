@@ -12,15 +12,25 @@ Welcome to my Github!
 ## *🔥 Key Skills Hotlist 🔥*
 
 Front-End Sorcery: Crafting captivating interfaces with React, HTML5, CSS (plus a dash of Tailwind for that extra flair), Typescript, and the ever-mysterious Javascript.
+
 Full Stack Wizardry: Conjuring up seamless experiences with Next.js, from frontend finesse to backend brilliance.
+
 API Enchantment: Mastering the art of weaving APIs into our digital tapestry.
+
 Database Spellcasting: Dancing effortlessly between GraphQL, SQLite, and MongoDB to store our data treasures.
+
 Version Control Charms: Commanding the powers of Git to keep our code kingdom in check.
+
 Container Concoctions: Brewing up Docker potions to ensure smooth deployments.
+
 Azure Alchemy: Harnessing the magic of Azure DevOps and Azure Cloud for our cloud-centric adventures.
+
 Agile Alacrity: Agile methodologies like Scrum and Kanban are my trusty steeds on our development quests.
+
 Communication Charisma: Fluent in the language of humans and machines alike, I'm the bard of binary banter.
+
 Team Player: Collaboration is my middle name (figuratively speaking)!
+
 English Elocution: Fluent at the C1 level, I'm ready to communicate with the global tech community.
 
 
