@@ -1,4 +1,4 @@
-#<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi there
+#<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi there! <br>
 I'm Livia Bellomi, a passionate software developer and tech enthusiast.
 Welcome to my Github!
 
