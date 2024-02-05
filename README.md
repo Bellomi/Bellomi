@@ -11,31 +11,31 @@ Welcome to my Github!
 
 ## *🔥 Key Skills Hotlist 🔥*
 
-Front-End Sorcery: Crafting captivating interfaces with React, HTML5, CSS (plus a dash of Tailwind for that extra flair), Typescript, and the ever-mysterious Javascript.
+Front-End Sorcery: Crafting captivating interfaces with React, HTML5, CSS (plus a dash of Tailwind for that extra flair), Typescript, and the ever-mysterious Javascript.<br>
 
-Full Stack Wizardry: Conjuring up seamless experiences with Next.js, from frontend finesse to backend brilliance.
+Full Stack Wizardry: Conjuring up seamless experiences with Next.js, from frontend finesse to backend brilliance.<br>
 
-API Enchantment: Mastering the art of weaving APIs into our digital tapestry.
+API Enchantment: Mastering the art of weaving APIs into our digital tapestry.<br>
 
-Database Spellcasting: Dancing effortlessly between GraphQL, SQLite, and MongoDB to store our data treasures.
+Database Spellcasting: Dancing effortlessly between GraphQL, SQLite, and MongoDB to store our data treasures.<br>
 
-Version Control Charms: Commanding the powers of Git to keep our code kingdom in check.
+Version Control Charms: Commanding the powers of Git to keep our code kingdom in check.<br>
 
-Container Concoctions: Brewing up Docker potions to ensure smooth deployments.
+Container Concoctions: Brewing up Docker potions to ensure smooth deployments.<br>
 
-Azure Alchemy: Harnessing the magic of Azure DevOps and Azure Cloud for our cloud-centric adventures.
+Azure Alchemy: Harnessing the magic of Azure DevOps and Azure Cloud for our cloud-centric adventures.<br>
 
-Agile Alacrity: Agile methodologies like Scrum and Kanban are my trusty steeds on our development quests.
+Agile Alacrity: Agile methodologies like Scrum and Kanban are my trusty steeds on our development quests.<br>
 
-Communication Charisma: Fluent in the language of humans and machines alike, I'm the bard of binary banter.
+Communication Charisma: Fluent in the language of humans and machines alike, I'm the bard of binary banter.<br>
 
-Team Player: Collaboration is my middle name (figuratively speaking)!
+Team Player: Collaboration is my middle name (figuratively speaking)!<br>
 
-English Elocution: Fluent at the C1 level, I'm ready to communicate with the global tech community.
+English Elocution: Fluent at the C1 level, I'm ready to communicate with the global tech community.<br>
 
 
 
-###💻 **Tech Stack**
+💻 **Tech Stack**
 <p>  
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
