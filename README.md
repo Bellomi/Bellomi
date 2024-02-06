@@ -2,7 +2,7 @@
 I'm Livia Bellomi, a passionate software developer and tech enthusiast.
 Welcome to my Github!
 
-📫 How to reach me: <a href="[https://www.linkedin.com/in/thivagarm/](https://www.linkedin.com/in/livia-bellomi-88b2821b6/)">
+📫 How to reach me: <a href="https://www.linkedin.com/in/livia-bellomi-88b2821b6/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
