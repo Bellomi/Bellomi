@@ -14,17 +14,12 @@ Welcome to my Github!
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
-  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=flat"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJs-black?style=flat&logo=next.js&logoColor=white&style=flat" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js" />  
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=flat"/>
 </p>
 <p>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?&logo=tailwind+css&logoColor=white&style=flat"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=flat"/>
 </p>
 
 **Version Control and Development tools used:**
