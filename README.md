@@ -17,9 +17,8 @@ Welcome to my Github!
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJs-black?style=flat&logo=next.js&logoColor=white&style=flat" />
-</p>
-<p>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?&logo=tailwind+css&logoColor=white&style=flat"/>
+  <img alt="styled-components" src="https://img.shields.io/badge/styled-components-F7DF1E?logo=styledcomponents&logoColor=white&style=flat" />
+  
 </p>
 
 **Version Control and Development tools used:**
