@@ -1,6 +1,10 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi there! <br>
+## ![Facebook_L_logo_pink](https://github.com/user-attachments/assets/495d1254-f940-4f16-90b3-fe40f9d6f56a) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi there! <br>
 I'm Livia Bellomi, a passionate software developer and tech enthusiast.
 Welcome to my Github!
+
+
+
+
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/livia-bellomi-88b2821b6/">
   <img
